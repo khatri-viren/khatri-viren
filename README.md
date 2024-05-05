@@ -24,5 +24,5 @@ I'm just a third-year Computer Science student who jumped into the coding world 
 
 ### Badges
 
-| <a href="https://github.com/khatri-viren/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khatri-viren&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viren's github stats" /></a> | <a href="https://github.com/khatri-viren/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatri-viren&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/khatri-viren/github-readme-stats"><img align="center" src="https://github-readme-stats-nine-neon-73.vercel.app/api?username=khatri-viren&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viren's github stats" /></a> | <a href="https://github.com/khatri-viren/github-readme-stats"><img align="center" src="https://github-readme-stats-nine-neon-73.vercel.app/api/top-langs/?username=khatri-viren&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
