@@ -6,7 +6,7 @@ I am a fourth-year Computer Science student with a deep passion for coding and a
 
 - 🌍  I'm based in Pune, India
 - 🖥️  See my portfolio at [My Portfolio](http://khatri-viren.github.io/)
-- ✉️  You can contact me at [vk102002@gmail.com](mailto:vk102002@gmail.com)
+- ✉️  You can contact me at [vk102002@gmail.com](mailto:viren@worqhat.com)
 - ⚡  Oh, and when I'm not glued to my keyboard, you'll catch me building random IoT devices, merging the digital and physical worlds. Always hungry to learn, I'm constantly chasing the latest trends and geeking out on emerging tech.
 
 ### Skills
