@@ -1,6 +1,6 @@
 # Hi 👋 My name is Viren Khatri
 
-## Full Stack Developer
+## Co-Founder & CTO at WorqHat
 
 I am a fourth-year Computer Science student with a deep passion for coding and a particular expertise in ReactJS and the MERN stack. Over the past couple of years, I've developed dynamic web applications using ReactJS, JavaScript, TypeScript, and Node.js, focusing on creating both aesthetically pleasing and highly functional user interfaces. My journey began with PHP and SQL, where I crafted robust server-side solutions, but my heart now lies in the seamless integration of front-end and back-end technologies.
 
